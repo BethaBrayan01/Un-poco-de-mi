@@ -8,6 +8,9 @@ tengo 29 años, se que soy mayor para poder seguir en la universidad, la procast
 
 espero que esta minihistoria mia halla sido de tu agrado y que tu tambien puedas salir adelante, no como yo, ser alguien mucho mejor, tù puedes ¡¡¡¡¡
 
+ 
+hoollaaaa a todo el muunndoooo 
 ## trabajo de rama
 
 todo esto es una practica para pulir el manejo de git y github
+
